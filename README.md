@@ -45,7 +45,7 @@ For starting the backend
         <tbody>
             <tr>
                 <td>Front Page </td>
-                <td><img width="1440" alt="Screenshot 1" src=""></td>
+                <td><img width="1440" alt="Screenshot 1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/116560487/293679570-9a63b55e-6f34-48d4-8329-e8c7bf179b1a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240926%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240926T183634Z&X-Amz-Expires=300&X-Amz-Signature=c5a2a812d0f652477b33b1853f4b55db241423dd6280499c0a2d1ee7ad2ff1be&X-Amz-SignedHeaders=host"></td>
             </tr>
             <tr>
                 <td> Select Detection </td>
